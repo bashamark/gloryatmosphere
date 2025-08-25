@@ -4,8 +4,8 @@
       "radio_name": "GA Radio",
       "radio_genre": "Glory Atmosphere",
       "radio_url": "https://cast4.asurahosting.com/proxy/gloryat1/stream",
-      "radio_image_url": "https://i.ibb.co/Lz4dz7cr/glory-radio.webp",
-      "background_image_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
+      "radio_image_url": "https://i.ibb.co/pjZP4d6d/gloryat.jpg",
+      "background_image_url": "https://i.ibb.co/G7Hsbts/pp.jpg",
       "blur_radio_background": "true",
       "song_metadata": "true",
       "image_album_art": "false",
@@ -17,7 +17,7 @@
     {
       "app_status": "1",
       "privacy_policy_url": "https://sites.google.com/view/your-single-radio",
-      "more_apps_url": "https://codecanyon.net/category/mobile/android?sort=sales&term=solodroid#content",
+      "more_apps_url": "",
       "redirect_url": ""
     }
   ],
@@ -57,13 +57,13 @@
     {
       "social_name": "Church Website",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
-      "social_url": "https://glorydaysglobal.org/"
+      "social_url": ""
     },
 
     {
       "social_name": "Youtube Channel",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/twitter.png",
-      "social_url": "https://www.youtube.com/@GloryDaysGlobal/videos"
+      "social_url": ""
     }
   ]
 }
